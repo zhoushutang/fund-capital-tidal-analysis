@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: HTTPS-PAGES-URL/sitemap.xml
