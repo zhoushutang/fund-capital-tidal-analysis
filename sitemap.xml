@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 上线后把 HTTPS-PAGES-URL 替换为你的 GitHub Pages 地址（结尾不带斜杠），再提交到百度/Google 站长平台 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>HTTPS-PAGES-URL/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>HTTPS-PAGES-URL/concepts.html</loc><priority>0.8</priority></url>
+  <url><loc>HTTPS-PAGES-URL/author.html</loc><priority>0.8</priority></url>
+  <url><loc>HTTPS-PAGES-URL/single.html</loc><priority>0.5</priority></url>
+</urlset>
